@@ -18,8 +18,9 @@ The goal of this lab is to understand how network scanning works, identify open 
 ## Sample Scan
 
 Example command used:
-  nmap -T4 localhost
-  
+```
+nmap -T4 localhost
+```  
 ## Scan Result
 ![Nmap Scan](scan.png)
 
