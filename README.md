@@ -1,5 +1,11 @@
 # Network Security Lab
 
+![Nmap](https://img.shields.io/badge/Tool-Nmap-blue)
+![OS](https://img.shields.io/badge/OS-Windows-lightgrey)
+![Level](https://img.shields.io/badge/Level-Beginner-green)
+
+Basic network scanning and security analysis using Nmap in a local environment.
+
 ## Overview
 This project demonstrates basic network scanning and security analysis using Nmap in a controlled local environment.
 
