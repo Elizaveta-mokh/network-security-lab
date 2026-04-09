@@ -21,7 +21,7 @@ Example command used:
   nmap -T4 localhost
   
 ## Scan Result
-
+![Nmap Scan](scan.png)
 
 The screenshot above shows the result of a fast network scan performed on the local machine.
 
