@@ -4,7 +4,7 @@
 ![OS](https://img.shields.io/badge/OS-Windows-lightgrey)
 ![Level](https://img.shields.io/badge/Level-Beginner-green)
 
-Basic network scanning and security analysis using Nmap in a local environment.
+A beginner-friendly cybersecurity project demonstrating network scanning and basic security analysis using Nmap.
 
 ## Overview
 This project demonstrates basic network scanning and security analysis using Nmap in a controlled local environment.
@@ -57,6 +57,14 @@ These ports indicate active services running on the system. While they are norma
 - Explore advanced Nmap options
 - Learn vulnerability scanning tools
 
+## Security Insight
+
+This scan shows that even a local machine has multiple active services running on open ports.  
+If these ports were exposed to external networks, they could become potential entry points for attackers.
+
+Understanding which ports are open is a fundamental step in identifying vulnerabilities and improving system security.
+
 ---
 
-This project is part of my cybersecurity learning journey.
+Built as part of my journey into cybersecurity.  
+Currently exploring networking, Linux, and security fundamentals.
